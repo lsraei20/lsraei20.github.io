@@ -4,9 +4,7 @@ title: Best States To Start Your Real Estate Journey!
 subtitle: The best time to start is yesterday, second best time? Now!
 comments: true
 ---
-
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
-
+I hear you screaming from thousands of miles away **TEXAS!**. I get it, I though the same too. Who can blame us? Texas is the meme state of cheap real estate so what better place to start with right? Well... I'll let the data talk by itself.
 **Here is some bold text**
 
 ## Here is a secondary heading
