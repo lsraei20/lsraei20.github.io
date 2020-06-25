@@ -4,12 +4,14 @@ title: Best States To Start Your Real Estate Journey!
 subtitle: The best time to start is yesterday, second best time? Now!
 comments: true
 ---
-I hear you screaming from thousands of miles away **TEXAS!**. I get it, I though the same too. Who can blame us? Texas is the meme state of cheap real estate so what better place to start with right? Well... I'll let the data talk by itself.
+I hear you screaming from thousands of miles away **'TEXAS!'**. I get it, I though the same too. Who can blame us? Texas is the meme state of cheap real estate so what better place to start with right? Well... I'll let the data talk by itself.
 
 
-## Here is a secondary heading
+## Growth 
 
-Here's a useless table:
+You always hear the same cliche saying from stock trading, 'Buy Low, Sell High' (I wish it was that easy). So why shouldn't we use the same principle when it comes to real estate? Except of course for the selling part, how are you gonna build you wealth if you keep giving it away? this is a long term dream, not a get rich quick penny stock. However, the 'buy low' part of the saying is valid, really really valid! If you're going to invest your hard earned money on a propery, you want it to grow so this is the first principle we will be analizing. 
+
+
 
 | Number | Next number | Previous number |
 | :------ |:--- | :--- |
