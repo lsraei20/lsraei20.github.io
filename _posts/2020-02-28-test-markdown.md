@@ -1,10 +1,7 @@
 ---
 layout: post
-title: Best States To Start Your Real Estate Investing Journey!
+title: Best States To Start Your Real Estate Journey!
 subtitle: The best time to start is yesterday, second best time? Now!
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
 comments: true
 ---
 
