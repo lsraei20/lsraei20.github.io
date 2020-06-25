@@ -5,7 +5,7 @@ subtitle: The best time to start is yesterday, second best time? Now!
 comments: true
 ---
 I hear you screaming from thousands of miles away **TEXAS!**. I get it, I though the same too. Who can blame us? Texas is the meme state of cheap real estate so what better place to start with right? Well... I'll let the data talk by itself.
-**Here is some bold text**
+
 
 ## Here is a secondary heading
 
