@@ -2,7 +2,7 @@
 layout: post
 title: Best States To Start Your Real Estate Journey!
 subtitle: The best time to start is yesterday, second best time? Now!
-cover-img: /assets/img/path.jpg
+cover-img: https://cdn.viewing.nyc/assets/media/4f9e19a1a012ac37085c3d0e3c291a2d/elements/e634d4b9f98dfd389c34400837f0cd6c/xl/329013e1-4f19-4dd1-a9a2-69f791e68861_1x.jpg
 comments: true
 ---
 
