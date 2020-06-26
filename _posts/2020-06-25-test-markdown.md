@@ -47,5 +47,8 @@ Naturally, this might be a lot of information to take in immediately. I decided 
 
 <img src="https://raw.githubusercontent.com/lsraei20/lsraei20.github.io/master/assets/img/score.png">
 
+Something to also keep in mind is that these are by no means the main and only things to examine This should be merely the beginning of your journey, there are a lot more variables that we have to go into detail in the future. Specific cities and areas, rent to mortgage ration, new infrastructure that migh increase the value of the state, etc.
+
 I do want to clarify that this information was taken from points in time before Covid-19. There is no way for anyone to know that the long term effects of this pandemic will look like, only time will tell.
+Something to also keep in mind 
 
