@@ -23,9 +23,17 @@ Moving on we have another characteristic which should hopefully follow closely w
 
 ## Job Growth
 
-A growing economy is crucial for our investment to make sense
+A growing economy is crucial for our investment to make sense, I considered taking the GDP into account instead of job growth but it is just not the same. This chart is for the average joe, not a millionaire or large corporations, and sadly GDP can be troublesome when it comes to taking its majority of the population into account. On the other hand, job growth does make a difference in people's lives. Not only are there more positions available to accommodate most of the residents, but it also gives people the chance to grow their career and salary. This would make it possible for more and more families to start buying property for their own which would be great for the real estate market (meaning it would keep growing and with it all of **your** properties. This next heat map is similar to the last one, it shows the **average** yearly increase in job growth from 2017 to 2019.
 
 ![%job](https://raw.githubusercontent.com/lsraei20/lsraei20.github.io/master/assets/img/job%25.png)
+
+Just as we predicted, job growth follows closely to population increase although not perfectly matched, we'll go more into detail later on. Now, we will be looking at our last characteristic, which results to be the center of this whole article, the main dish of our investing hunger which is of course:
+
+## Real Estate Growth
+
+There is nothing wrong with looking at the past to make decisions, it just isn't bright to make it our own consideration. Cause and effect on the market is often not a 1 to 1.
+
 ![%realestate](https://raw.githubusercontent.com/lsraei20/lsraei20.github.io/master/assets/img/real_estate%25.png)
+
 ![%scoring](https://raw.githubusercontent.com/lsraei20/lsraei20.github.io/master/assets/img/score.png)
 
