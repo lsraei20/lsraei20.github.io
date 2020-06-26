@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Best States To Start Your Real Estate Journey!\n \n \n
+title: Best States To Start Your Real Estate Journey!
+\n \n \n
 subtitle: The best time to start is yesterday, second best time? Now!
 cover-img: assets/img/712895.jpg
 comments: true
