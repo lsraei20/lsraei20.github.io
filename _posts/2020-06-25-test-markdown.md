@@ -15,7 +15,7 @@ You always hear the same cliche saying from stock trading, 'Buy Low, Sell High' 
 
 It is a simple supply and demand game, nothing more, nothing less. If you have people fleeing you state chances are there's less people to buy already excisting properties causing them to decreese their prices. If instead you have growing demand and a growing need of housing, the price of properties will rise and include a premium, at the end of the day you are the one that needs a roof and there are another thousand people competing to get that same roof over their head. I manage to scrap some data from the United States Census Bureau and made a comprehensive, easy to read heat map to give you a better idea of which states are getting the biggest population percentage increases. This heat map shows the **average** yearly increase population percentage from 2017 to 2019 (**NOT THE ACTUAL PERCENTAGE POPULATION INCREASE FROM 2017 TO 2019**).
 
-https://gist.github.com/lsraei20/31405231f3381b2cae55de0055299a09
+<script src="https://gist.github.com/lsraei20/31405231f3381b2cae55de0055299a09.js"></script>
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
