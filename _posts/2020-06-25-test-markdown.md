@@ -15,29 +15,4 @@ You always hear the same cliche saying from stock trading, 'Buy Low, Sell High' 
 
 It is a simple supply and demand game, nothing more, nothing less. If you have people fleeing you state chances are there's less people to buy already excisting properties causing them to decreese their prices. If instead you have growing demand and a growing need of housing, the price of properties will rise and include a premium, at the end of the day you are the one that needs a roof and there are another thousand people competing to get that same roof over their head. I manage to scrap some data from the United States Census Bureau and made a comprehensive, easy to read heat map to give you a better idea of which states are getting the biggest population percentage increases. This heat map shows the **average** yearly increase population percentage from 2017 to 2019 (**NOT THE ACTUAL PERCENTAGE POPULATION INCREASE FROM 2017 TO 2019**).
 
-```
-import pandas as pd
-#Cleaning data for population change % per state
-df = pd.read_csv('http://www2.census.gov/programs-surveys/popest/datasets/2010-2019/national/totals/nst-est2019-popchg2010_2019.csv?#')
-dfclean1 = df.iloc[5:56, :]
-dfclean1 = dfclean1.reset_index()
-dfclean2 = dfclean1.loc[:,['NAME','PPOPCHG_2017','PPOPCHG_2018','PPOPCHG_2019','NRANK_NPCHG2017','NRANK_NPCHG2018','NRANK_NPCHG2019']] 
-population_change = dfclean2.copy()
-abb = pd.read_csv('https://raw.githubusercontent.com/jasonong/List-of-US-States/master/states.csv', names=['NAME', 'Abbr.'])
-population_change = pd.merge(population_change, abb, how='inner', on='NAME')
-population_change = population_change.rename(columns={'NAME': 'State','PPOPCHG_2017':'2017 Population Growth %','PPOPCHG_2018':'2018 Population Growth %','PPOPCHG_2019':'2019 Population Growth %','NRANK_NPCHG2017':'Rank 2017','NRANK_NPCHG2018':'Rank 2018','NRANK_NPCHG2019': 'Rank 2019'})
-population_change['2017-2019 Population Growth % Mean'] = (population_change['2017 Population Growth %'] + population_change['2018 Population Growth %'] + population_change['2019 Population Growth %'])/3
-
-import plotly.express as px  
-fig = px.choropleth(population_change, 
-                    locations="Abbr.", 
-                    color='2017-2019 Population Growth % Mean',  
-                    hover_name="State",
-                    locationmode = 'USA-states') 
-fig.update_layout(
-    title_text = '2017-2019 Population Percentage Growth Mean Per State', 
-    geo_scope='usa', 
-)
-fig.show() 
-
-```
+<img src="/assets/img/population%.png" alt="Population Increase %">
