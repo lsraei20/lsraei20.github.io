@@ -33,7 +33,7 @@ Just as we predicted, job growth follows closely to population increase although
 
 ## Real Estate Growth
 
-There is nothing wrong with looking at the past to make decisions, it just isn't bright to make it our own consideration. Cause and effect on the market is often not a 1 to 1.
+There is nothing wrong with looking at the past to make decisions. Having said that, it just isn't bright to make it the only thing we take into consideration. Cause and effect on the market often do not take an immediate 1 to 1, it takes time. It is important to take history into account and observe what patterns have made the market go up or down. You know the drill...  Next up we'll be looking and the **average** yearly increase in the history of the market from 2017 to 2019.
 
 ![%realestate](https://raw.githubusercontent.com/lsraei20/lsraei20.github.io/master/assets/img/real_estate%25.png)
 
