@@ -37,5 +37,11 @@ There is nothing wrong with looking at the past to make decisions. Having said t
 
 ![%realestate](https://raw.githubusercontent.com/lsraei20/lsraei20.github.io/master/assets/img/real_estate%25.png)
 
+Idaho seems to be going on a limp there! They have been keeping the secret from us, how rude is that?!
+
+## Scoring System
+
+Naturally, this might be a lot of information to take in immediately. I decided to make a scoring system to take all of them into consideration and condense the information into a dopamine inducing graph which goes straight to the point. Let me explain, each characteristic we went through (Real Estate growth, Job growth, and Population growth) can be worth up to 1 point for the best or 0 for the worst state. In the end, all the points will be added and show, ready?
+
 ![%scoring](https://raw.githubusercontent.com/lsraei20/lsraei20.github.io/master/assets/img/score.png)
 
