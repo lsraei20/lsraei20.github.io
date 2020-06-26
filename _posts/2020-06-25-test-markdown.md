@@ -45,8 +45,7 @@ I want to talk a little about why I chose to show these specific characteristics
 
 Naturally, this might be a lot of information to take in immediately. I decided to make a scoring system to take all of them into consideration and condense the information into a dopamine inducing graph which goes straight to the point. Let me explain, each characteristic we went through (Real Estate growth, Job growth, and Population growth) can be worth up to 1 point for the best or 0 for the worst state. In the end, all the points will be added and show, ready?
 
-![%scoring](https://raw.githubusercontent.com/lsraei20/lsraei20.github.io/master/assets/img/score.png)
-<img src="https://raw.githubusercontent.com/lsraei20/lsraei20.github.io/master/assets/img/score.png" height=”100px" width=”150px">
+<img src="https://raw.githubusercontent.com/lsraei20/lsraei20.github.io/master/assets/img/score.png">
 
 I do want to clarify that this information was taken from points in time before Covid-19. There is no way for anyone to know that the long term effects of this pandemic will look like, only time will tell.
 
