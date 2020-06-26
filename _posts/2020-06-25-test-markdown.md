@@ -45,3 +45,5 @@ Naturally, this might be a lot of information to take in immediately. I decided 
 
 ![%scoring](https://raw.githubusercontent.com/lsraei20/lsraei20.github.io/master/assets/img/score.png)
 
+I do want to clarify that this information was taken from points in time before Covid-19. There is no way for anyone to know that the long term effects of this pandemic will look like, only time will tell.
+
