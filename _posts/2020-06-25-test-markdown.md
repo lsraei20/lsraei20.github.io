@@ -17,3 +17,15 @@ You always hear the same cliche saying from stock trading, 'Buy Low, Sell High' 
 It is a simple supply and demand game, nothing more, nothing less. If you have people fleeing you state chances are there are fewer people to buy already existing properties causing them to decrease their prices. If instead, you have growing demand and a growing need of housing, the price of properties will rise and include a premium, at the end of the day you are the one that needs a roof and another thousand people are competing to get that same roof over their head. I manage to scrape some data from the United States Census Bureau and made a comprehensive, easy to read heat map to give you a better idea of which states are getting the biggest population percentage increases. This heat map shows the **average** yearly increase population percentage from 2017 to 2019 (**NOT THE ACTUAL PERCENTAGE POPULATION INCREASE FROM 2017 TO 2019**).
 
 ![%population](https://raw.githubusercontent.com/lsraei20/lsraei20.github.io/master/assets/img/population%25.png)
+
+Idaho?! Since when is Idaho so cool? Texas is falling behind. And Alaska is just getting rid of people, the same as throwing your money straight to fire... 
+Moving on we have another characteristic which should hopefully follow closely with population increase, and that's of course:
+
+## Job Growth
+
+A growing economy is crucial for our investment to make sense
+
+![%job](https://raw.githubusercontent.com/lsraei20/lsraei20.github.io/master/assets/img/job%25.png)
+![%realestate](https://raw.githubusercontent.com/lsraei20/lsraei20.github.io/master/assets/img/real_estate%25.png)
+![%scoring](https://raw.githubusercontent.com/lsraei20/lsraei20.github.io/master/assets/img/score.png)
+
