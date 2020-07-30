@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
+title: Predicting Income Status 
+subtitle: Based on Education, Gender, Age, Ethnicity, etc.
+cover-img: /assets/img/Money.jpg
 tags: [books, test]
 ---
 
