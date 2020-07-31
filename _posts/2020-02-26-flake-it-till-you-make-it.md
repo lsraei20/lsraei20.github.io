@@ -10,11 +10,17 @@ At first glance, this challenge seems easy enough, right?  People with degrees w
 
 ## Data
 Features that were not as important were dropped from the model. These included things like the id of the survey, district, and other features that mostly had missing values. The cleaning process also included generalizing some of the data. Some of the features had way too many variables with not many I did this by creating a simple function which would keep variables with  a **significant number** (more than 1000) and store all others in a single variable (**other**):     
+
 ![%generalizing](assets/img/Screen Shot 2020-07-31 at 8.28.28 AM.png)
+
 Other data cleaning included the typical, things like misspellings, lower and uppercase, etc...
 
 ## Base Model vs Final Model 
 
 Decided Baseline for this model was accuracy, false positives or negatives would not be of trouble for this specific data, even if it was used for benefit allocation there could always be an appeals system in place to suffice that. Base accuracy came out to:
-![Baseline](assets/img/baseline.png)
 
+![%Baseline](assets/img/baseline.png)
+
+For the final model, I tried linear classification, Xgboost, RandomGradient. Although most of the scores seemed similar, I decided to go with RandomForestClassifier with some minimal hyperparameters which gave me a final accuracy score of about 76%:
+
+![%accu](assets/img/accuracy.png)
