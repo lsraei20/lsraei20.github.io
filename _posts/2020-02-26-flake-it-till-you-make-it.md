@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Predicting Income Status 
+title: Predicting Income Status (Failure)
 subtitle: Based on Education, Gender, Age, Ethnicity, etc.
 cover-img: /assets/img/Money.jpg
 tags: [books, test]
@@ -24,3 +24,27 @@ Decided Baseline for this model was accuracy, false positives or negatives would
 For the final model, I tried linear classification, Xgboost, RandomGradient. Although most of the scores seemed similar, I decided to go with RandomForestClassifier with some minimal hyperparameters which gave me a final accuracy score of about 76%:
 
 ![%accu](https://raw.githubusercontent.com/lsraei20/lsraei20.github.io/master/assets/img/accuracy.png)
+
+At this point is where the learning curve starts, I had finished all of this work, I was ecstatic with the results when it hit me! I had messed up big time...
+
+![%matrix](https://raw.githubusercontent.com/lsraei20/lsraei20.github.io/master/assets/img/matrix.png)
+
+As you can see in this confusion matrix I did not get a high score, that was at best a little better than a base accuracy score...  
+At this point in the project, my only option was to keep going with it and explore what went wrong. 
+
+## What Broke My Project 
+
+This post has been written as I worked through the project, I believe you can identify my excitement at the beginning and how disappointment hit strong! 
+
+The main issue I identified was the fact that I was measuring my accuracy score at the beginning of the project. This was key to me not realizing something was wrong until the very end. 
+
+![%incomeacc](https://raw.githubusercontent.com/lsraei20/lsraei20.github.io/master/assets/img/income%20acc.png)
+
+As you can see in this picture, the target at the beginning had way more classifiers, so the accuracy score was a low 22%. However, when I cleaned it afterward to 'above average', 'below average' and 'poverty' that reduce the classifiers by a lot causing my base score to increase. This mistake sounds so silly that it is embarrassing, to say the least.
+
+My model nothing else but predicting the majority classifier which in this case happened to be 'Above Average'. 
+
+![%incomeacc](https://raw.githubusercontent.com/lsraei20/lsraei20.github.io/master/assets/img/targetcount.png)
+
+There are multiple reasons as to why I believe my model was not successful at increasing the score, these are theories and doubts I had even before starting the project.
+-First is that there was just not enough variety of data for my model to learn from. I know! This contradicts what I said before! The fact that I had to create a function to generalize because there was too much variety, but let me explain... The variety in the features was really dirty, it was was mostly in one or two variables but then 341 other variables had only 1 or 2 instances. This is why I cleaned and classified them as **others** so in hindsight, there was almost no variety, or better put not enough data for the other classifiers.
