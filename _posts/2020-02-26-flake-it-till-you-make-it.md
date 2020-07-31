@@ -53,5 +53,11 @@ There are multiple reasons as to why I believe my model was not successful at in
 
 -Another Problem that is correlated to the first is that this needs a lot more data since the begging I knew predicting income would be hard as there are a lot of factors that go into it. However, that false hope score made me blind to that fact, I thought I had it all figured out, and the results were going to be incredible. I started sensing that something was wrong when my visualizations started becoming a priority at the end of the project, I had problems creating Shapley Value Plots and others. I spend a lot of time stuck in that phase until I did the confusion matrix, that is what gave it away and made my world crumble.
 
+##Conclusion
+
+Apart from disappointment, there are many things that I was able to take from this frustrating experience. It should come as no surprise that I'd be sure not to touch the target **ever again**  after getting my base score. (I still cannot believe how small, yet impactful this mistake was). The most important thing, however, is a data exploration and my failure of it. Now I have that famous machine learning phrase stuck in my head forever 'Garbage in garbage out!' there is no doubt that my data was just too messy even though I spent hours refining and cleaning it, but maybe this dataset just was not meant to be. I could have of course realized this a lot sooner with minor but critical tweaks to my process. 
+
+
+
 
 
