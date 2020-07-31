@@ -48,3 +48,7 @@ My model nothing else but predicting the majority classifier which in this case 
 
 There are multiple reasons as to why I believe my model was not successful at increasing the score, these are theories and doubts I had even before starting the project.
 -First is that there was just not enough variety of data for my model to learn from. I know! This contradicts what I said before! The fact that I had to create a function to generalize because there was too much variety, but let me explain... The variety in the features was really dirty, it was was mostly in one or two variables but then 341 other variables had only 1 or 2 instances. This is why I cleaned and classified them as **others** so in hindsight, there was almost no variety, or better put not enough data for the other classifiers.
+
+![%vari](https://raw.githubusercontent.com/lsraei20/lsraei20.github.io/master/assets/img/variety.png)
+
+
