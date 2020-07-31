@@ -51,4 +51,7 @@ There are multiple reasons as to why I believe my model was not successful at in
 
 ![%vari](https://raw.githubusercontent.com/lsraei20/lsraei20.github.io/master/assets/img/variety.png)
 
+-Another Problem that is correlated to the first is that this needs a lot more data since the begging I knew predicting income would be hard as there are a lot of factors that go into it. However, that false hope score made me blind to that fact, I thought I had it all figured out, and the results were going to be incredible. I started sensing that something was wrong when my visualizations started becoming a priority at the end of the project, I had problems creating Shapley Value Plots and others. I spend a lot of time stuck in that phase until I did the confusion matrix, that is what gave it away and made my world crumble.
+
+
 
